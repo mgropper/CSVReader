@@ -1,0 +1,13 @@
+/Users/mattgropper/Documents/College/Sophomore/Internship/readCSV/readCSV/bin/AnyCPU/csvDB.db
+/Users/mattgropper/Documents/College/Sophomore/Internship/readCSV/readCSV/bin/AnyCPU/x64/SQLite.Interop.dll
+/Users/mattgropper/Documents/College/Sophomore/Internship/readCSV/readCSV/bin/AnyCPU/x86/SQLite.Interop.dll
+/Users/mattgropper/Documents/College/Sophomore/Internship/readCSV/readCSV/bin/AnyCPU/readCSV.exe.config
+/Users/mattgropper/Documents/College/Sophomore/Internship/readCSV/readCSV/bin/AnyCPU/readCSV.exe
+/Users/mattgropper/Documents/College/Sophomore/Internship/readCSV/readCSV/bin/AnyCPU/Dapper.dll
+/Users/mattgropper/Documents/College/Sophomore/Internship/readCSV/readCSV/bin/AnyCPU/System.Data.SQLite.dll
+/Users/mattgropper/Documents/College/Sophomore/Internship/readCSV/readCSV/bin/AnyCPU/System.Data.SQLite.xml
+/Users/mattgropper/Documents/College/Sophomore/Internship/readCSV/readCSV/bin/AnyCPU/System.Data.SQLite.dll.config
+/Users/mattgropper/Documents/College/Sophomore/Internship/readCSV/readCSV/bin/AnyCPU/Dapper.xml
+/Users/mattgropper/Documents/College/Sophomore/Internship/readCSV/readCSV/obj/AnyCPU/readCSV.csproj.CoreCompileInputs.cache
+/Users/mattgropper/Documents/College/Sophomore/Internship/readCSV/readCSV/obj/AnyCPU/readCSV.csproj.CopyComplete
+/Users/mattgropper/Documents/College/Sophomore/Internship/readCSV/readCSV/obj/AnyCPU/readCSV.exe
