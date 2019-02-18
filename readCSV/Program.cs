@@ -15,11 +15,13 @@ namespace readCSV
         {
             //read contents of the CSV File
             string csvData = File.ReadAllText("train_small.csv");
+            //remove header from CSV data string
             csvData = csvData.Substring(csvData.IndexOf('\n') + 1);
 
             //loop over rows
             foreach (string row in csvData.Split('\n'))
             {
+                //check if row is not empty
                 if (!string.IsNullOrEmpty(row))
                 {
                     //split row into cells
